@@ -1,13 +1,4 @@
-/********** Module 2 Assignment **********/
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Module 2 Responsive Layout</title>
-<style>
-
-/********** Base styles **********/
+/********** 3 Column Styles styles **********/
 * {
   box-sizing: border-box;
 }
@@ -81,6 +72,3 @@ p {
     width: 100%;
   }
 }
-
-</style>
-</html>
